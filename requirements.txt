@@ -3,3 +3,4 @@ PyPDF2
 pdfplumber
 google-generativeai
 python-pptx
+python-dotenv
